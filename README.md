@@ -1,6 +1,6 @@
 # Vue-course-work3
 
-This template should help get you started developing with Vue 3 in Vite.
+This todolist application is written in composition api, using vue-router and vuex
 
 ## Recommended IDE Setup
 
