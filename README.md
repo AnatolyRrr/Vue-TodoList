@@ -1,4 +1,4 @@
-# Vue-course-work3
+# Vue-TodoList
 
 This todolist application is written in composition api, using vue-router and vuex
 
