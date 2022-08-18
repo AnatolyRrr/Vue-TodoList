@@ -1,6 +1,6 @@
 # Vue-TodoList
 
-This todolist application is written in composition api, using vue-router and vuex
+This todolist application is written in composition api, using vue-router, vuex and localstorage
 
 ## Recommended IDE Setup
 
