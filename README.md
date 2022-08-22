@@ -1,5 +1,7 @@
 # Vue-TodoList
 
+https://anatolyrrr.github.io/Vue-TodoList/
+
 This todolist application is written in composition api, using vue-router, vuex and localstorage
 
 ## Recommended IDE Setup
