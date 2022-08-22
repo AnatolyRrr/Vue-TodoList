@@ -9,7 +9,7 @@
         <button class="btn primary" @click="filterTasks('done')">Завершенные</button>
         <button class="btn danger" @click="filterTasks('cancelled')">Отмененные</button>
       </div>
-      <h2 class="text-white center" v-if="tasks.length === 0">Список пуст, выберите другой раздел</h2>
+      <h2 class="text-white center" v-if="tasks.length === 0">Список пуст, выберите другой фильтр</h2>
       <template v-else>
         <div class="card" v-for="(task, idx) in tasks" :key="task.id">
           <h2 class="card-title">
