@@ -48,10 +48,7 @@ const store = createStore({
         },
         taskById(_, getters) {
             return id => getters.tasks.find(t => t.id === id)
-        },
-        activeTaskFilter(_, getters) {
-            return id => getters.tasks.find(t => t.id === id)
-        },
+        }
     }
 })
 
